@@ -14,7 +14,7 @@ Welcome to the DJ Song Favorites App! This React-based application enables clien
 
 ## Tech Stack
 
-- **Frontend**: React
+- **Frontend**: css/html/react
 - **Backend**: MongoDB
 - **Authentication**: Custom user registration and login system
 - **Music Search**: Spotify API
