@@ -19,17 +19,13 @@ Welcome to the DJ Song Favorites App! This React-based application enables clien
 - **Authentication**: Custom user registration and login system
 - **Music Search**: Spotify API
 
-## Getting Started
 
-### Prerequisites
-
-Before you begin, ensure you have the following installed:
-
+Needed to install torun 
 - Node.js
 - npm (Node Package Manager)
 - MongoDB
 - Access to the Spotify API (you'll need to create a Spotify Developer account to obtain your API credentials)
 
-### Installation
 
-
+Deployment link
+https://capstone2-1-fbk0.onrender.com/
